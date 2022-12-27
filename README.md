@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Twister94. Thanks for visiting my profile.
-- 🌱 I’m currently learning Github to success.
+- 🌱 I’m currently learning Github to not forget.
 
 
 <!---
